@@ -1,0 +1,6 @@
+﻿  EncryptionOrDecryptionc.c
+C:\Users\alexp\source\repos\cryptomagic\cryptomagic\EncryptionOrDecryptionc.c(21,6): warning C4101: 'remainder': unreferenced local variable
+C:\Users\alexp\source\repos\cryptomagic\cryptomagic\EncryptionOrDecryptionc.c(86,6): warning C4101: 'asciiValue': unreferenced local variable
+  main.c
+  Generating Code...
+  cryptomagic.vcxproj -> C:\Users\alexp\source\repos\cryptomagic\Debug\cryptomagic.exe
